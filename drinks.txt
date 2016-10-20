@@ -7,3 +7,4 @@ Vodka
 Milk
 Apple juice
 Milkshake
+Smoothies
