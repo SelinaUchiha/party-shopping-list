@@ -3,3 +3,5 @@ Chips
 Crisps
 Doughnuts
 Cookies
+Cheese
+Apples

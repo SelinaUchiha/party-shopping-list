@@ -4,3 +4,5 @@ Coke
 Orange Juice
 Tequila
 Vodka
+Milk
+Apple juice
