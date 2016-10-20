@@ -1,0 +1,6 @@
+Beer
+Cider
+Coke
+Orange Juice
+Tequila
+Vodka
