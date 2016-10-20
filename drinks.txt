@@ -6,3 +6,4 @@ Tequila
 Vodka
 Milk
 Apple juice
+Milkshake
